@@ -1,0 +1,81 @@
+h1{
+    text-align:center;
+}
+
+
+.a{
+    
+  width:1200px;
+          margin:20px ;
+          margin-left: 40px;
+          margin-right: 40px;
+          margin-top: 50px;
+          padding:20px ;
+          opacity:0.95;
+          background-color: #ffffff;
+          
+  }
+ .b{margin-left: 150px;}
+ 
+.c{
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+
+body{
+    background-image:url('rote.jpg');
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+header {
+    background-color: #011021;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 100px;
+  }
+  
+  .left-icon {
+    font-size: 24px;
+    margin-right: 10px;
+  }
+  
+  header nav {
+    display: flex;
+  }
+  
+  a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+  }
+  
+
+p a{color: #0059b1;}
+
+
+
+  a:hover {
+    text-decoration: underline;
+  }
+  p{color: #0f4176;}
+
+  section {
+    flex: 1;
+    padding: 20px;
+  }
+  
+  footer {
+    background-color: #333;
+    color: #fff;
+    /* text-align: center; */
+    margin-top: auto;
+    padding: 10px 0;
+  }

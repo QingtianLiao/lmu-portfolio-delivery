@@ -1,0 +1,7 @@
+tbody tr:nth-child(odd):hover{
+    background-color:#39859f;
+}
+
+tbody tr:nth-child(even):hover{
+    background-color:#39859f;
+}
