@@ -130,6 +130,7 @@ Database is an electronic system for storing data. It is a structured data colle
 3. Object-Oriented Database: Object-Oriented Database is a database system for object-oriented programming languages. It can store and manage object-oriented data, such as objects, classes, properties and methods, etc. Object-oriented databases map and store objects more directly. Common object-oriented databases include db4o, ObjectDB, etc.
 
 4. In-Memory Database: In-memory database stores data in the computer's memory instead of on the disk. It has very fast read and write speeds and is suitable for applications that require high performance and low latency. In-memory databases can be relational or non-relational. Common memory databases include Redis, Memcached, etc.
+   
 Class 11: Full web application (study case)
 •	Version Control System:
 Version Control System (VCS) is a software tool that records file change history and manages multiple versions. It tracks file modifications, additions, and deletions, and provides a way for development teams to work together so that multiple people can edit and manage the same code base or project at the same time.
