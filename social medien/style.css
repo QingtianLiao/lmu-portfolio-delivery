@@ -2,6 +2,27 @@ h1{
     text-align:center;
 }
 
+.a{
+    
+  width:1200px;
+  margin:20px ;
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-top: 50px;
+  padding:20px ;
+  opacity:0.95;
+  background-color: #ffffff;
+          display:inline-block;
+          
+  }
+
+  .b{
+    margin-left: 150px;
+  margin-top: 0px;
+    display:inline-block;
+  }
+
+
 body{
     background-image:url('lila.png');
     font-family: Arial, sans-serif;
